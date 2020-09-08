@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29728.190
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld", "HelloWorld\HelloWorld.csproj", "{D9195BF6-82A7-4F2C-AEF7-6E974508F28A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HelloWorld", "HelloWorld\HelloWorld.csproj", "{D9195BF6-82A7-4F2C-AEF7-6E974508F28A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ContosoPets.Api", "ContosoPets.Api\ContosoPets.Api.csproj", "{87EDD592-7A17-4E2C-A779-75E6CC257407}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{D9195BF6-82A7-4F2C-AEF7-6E974508F28A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D9195BF6-82A7-4F2C-AEF7-6E974508F28A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D9195BF6-82A7-4F2C-AEF7-6E974508F28A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87EDD592-7A17-4E2C-A779-75E6CC257407}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87EDD592-7A17-4E2C-A779-75E6CC257407}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87EDD592-7A17-4E2C-A779-75E6CC257407}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87EDD592-7A17-4E2C-A779-75E6CC257407}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
